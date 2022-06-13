@@ -1,7 +1,7 @@
 ### Olâ, Eu sou Luan Nascimento Oliveira 👋
   
 - 🔭 I’m currently working on Engenheiro de Software
-- 🌱 I’m currently learning Java/Kotlin/Angular
+- 🌱 I’m currently learning Java/Kotlin
 - 😄 Pronouns: ele/dele
 
 <div align="center">
