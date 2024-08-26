@@ -1,7 +1,7 @@
 ### Hi, I'm Luan Nascimento Oliveira 👋
   
 - I'm currently working as a Software Engineer
-- I'm currently learning Java/Kotlin
+- I'm currently learning C# and .net
 - 😄 Pronouns: he/him
 
 <div align="center">
